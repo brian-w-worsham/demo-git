@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj": {}
+    "c:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj": {
+    "c:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj",
+        "projectUniqueName": "c:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj",
         "projectName": "FirstDemoProject",
-        "projectPath": "C:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj",
+        "projectPath": "c:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\FirstDemoProject.csproj",
         "packagesPath": "C:\\Users\\Brian_Worsham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\obj\\",
+        "outputPath": "c:\\Users\\Brian_Worsham\\source\\FirstDemoProject\\FirstDemoProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
